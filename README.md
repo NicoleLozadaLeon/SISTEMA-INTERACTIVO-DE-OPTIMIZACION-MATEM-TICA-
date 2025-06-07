@@ -22,13 +22,10 @@ Este proyecto consiste en el desarrollo de una aplicación interactiva en **Pyth
 
 ```
 
-code/
+codigo/
 │
-├── interfaz_de_usuario.py        # Interfaz principal
-├── solvers.py                    # solvers utilizados
-├── definicion_de_problemas.py    # LP, IP, NLP, MILP, MINLP
-├── report.py                     # Generación de reportes y exportación
-
+├──── interfaz_de_usuario.py        # Interfaz principal
+├──── solvers.py                    # solvers utilizados
 ````
 
 ---
